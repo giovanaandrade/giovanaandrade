@@ -12,10 +12,6 @@ HTML / CSS / JavaScript / React / Java
 ### Check my pinned repositories!
 
 
-[CottonCandy](https://github.com/giovanaandrade/CottonCandy-2)
-
-[Biscoito da Sorte](http://github.com/giovanaandrade/appbiscoitodasorte)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaandrade)](https://github.com/anuraghazra/github-readme-stats)
 
