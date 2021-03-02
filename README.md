@@ -9,7 +9,7 @@ HTML / CSS / JavaScript / React / Java
 
 - 🌱 I’m currently learning C# and .NET 
 
-### Check my main repositories!
+### Check my pinned repositories!
 
 
 [CottonCandy](https://github.com/giovanaandrade/CottonCandy-2)
