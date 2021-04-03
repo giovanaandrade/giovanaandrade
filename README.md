@@ -6,7 +6,7 @@
 <a href="mailto:giovanadandrade@gmail.com" target="_blank"><img src='https://github.com/giovanaandrade/giovanaandrade/blob/main/assets/1220340-48.png' alt='Gmail | giovanadandrade@gmail.com' height='35'></a>
 
 
-I'm graduated in Psychology and now studying System Analysis and Development. I've started coding when I was younger for fun, but since 2020 I'm studying it and I'm now working as a full stack developer.
+✨I'm graduated in Psychology and currently studying System Analysis and Development. I've started coding when I was younger for fun, but since 2020 I'm studying it and now I'm working as a full stack developer.
 
 ### Skills 
 HTML | CSS | JavaScript | React | Java
