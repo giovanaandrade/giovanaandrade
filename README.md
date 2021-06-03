@@ -9,9 +9,9 @@
 ✨I'm graduated in Psychology and currently studying System Analysis and Development. I've started coding when I was younger for fun, but since 2020 I'm studying it and now I'm working as a full stack developer.
 
 ### Skills 
-HTML | CSS | JavaScript | React | Java
+HTML | CSS | JavaScript | React | C# | .NET
 
-- 🌱 I’m currently learning C# and .NET 
+- 🌱 I’m currently learning VueJS
 
 ### Check my pinned repositories!
 
