@@ -2,7 +2,6 @@
 
 <a href="https://github.com/giovanaandrade" target="_blank"><img src='https://github.com/giovanaandrade/giovanaandrade/blob/main/assets/iconfinder_71-github_4202098.png' alt='Github | giovanaandrade' height='35'></a>
 <a href="https://www.linkedin.com/in/giovanadeandrade/" target="_blank"><img src='https://github.com/giovanaandrade/giovanaandrade/blob/main/assets/iconfinder_linkedin_circle_color_107178.png' alt='Linkedin | giovanadeandrade' height='35'></a>
-<a href="https://medium.com/@giovanadandrade" target="_blank"><img src='https://github.com/giovanaandrade/giovanaandrade/blob/main/assets/iconfinder_108-medium_710953.png' alt='Medium | @giovanadandrade' height='35'></a>
 <a href="mailto:giovanadandrade@gmail.com" target="_blank"><img src='https://github.com/giovanaandrade/giovanaandrade/blob/main/assets/1220340-48.png' alt='Gmail | giovanadandrade@gmail.com' height='35'></a>
 
 
