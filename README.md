@@ -2,8 +2,5 @@
 
 ✨ I’m a Full Stack Developer with 4+ years of experience working with .NET Core, C#, JavaScript and Optimizely CMS. I’m also a Psychology graduate, combining technical expertise with a user-centered mindset.
 
-
-## Check my pinned repositories!
-
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaandrade&layout=compact&count_private=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
